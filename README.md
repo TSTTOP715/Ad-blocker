@@ -1,1 +1,1 @@
-# Ad-blocker
+##                               ⛔Ad-blocker⛔
