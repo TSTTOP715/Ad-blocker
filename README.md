@@ -4,7 +4,7 @@
     |------:|----------------------------------|
     |      1| Ad-blocker                       |
     |      2| Bad Word Blocker                 |
-    |      3| Bad Picture Blocker              |
+    |      3| Def from scam                    |
     ////////////////////////////////////////////
     ____________________________________________
     This project consists of code written 
